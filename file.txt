@@ -1,0 +1,10 @@
+cfs_synch.sv
+cfs_synch_fifo.sv
+cfs_rx_ctrl.sv
+cfs_ctrl.sv
+cfs_tx_ctrl.sv
+cfs_edge_detect.sv
+cfs_regs.sv
+cfs_aligner_core.sv
+cfs_aligner.sv
+testbench.sv
