@@ -12,25 +12,6 @@ This repository contains a **UVM-based verification environment** written in **S
 
 The verification environment follows standard UVM methodology and is organized as follows:
 
-### Directories
-- **rtl/**  
-  Contains the RTL implementation of the Aligner module.
-
-- **tb/top/**  
-  Contains the HVL top module and testbench instantiation.
-
-- **tb/env/**  
-  Includes the UVM environment, scoreboard, and virtual sequencer.
-
-- **tb/agents/**  
-  Contains active and passive agents used to drive and monitor interfaces.
-
-- **tb/sequences/**  
-  Defines UVM sequences for stimulus generation.
-
-- **tb/test/**  
-  Contains UVM test classes.
-
 ---
 
 ## System Architecture
