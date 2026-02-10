@@ -8,12 +8,6 @@ This repository contains a **UVM-based verification environment** written in **S
 
 ---
 
-## Verification Environment Structure
-
-The verification environment follows standard UVM methodology and is organized as follows:
-
----
-
 ## System Architecture
 
 ### Interfaces
